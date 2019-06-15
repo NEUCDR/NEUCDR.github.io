@@ -62,10 +62,10 @@ repository_tree: master
 ## => Paths
 ##############################
 paths:
-  root    : # title link url, "/" (default)
-  home    : # home layout url, "/" (default)
-  archive : # "/archive.html" (default)
-  rss     : # "/feed.xml" (default)
+  root    : /# title link url, "/" (default)
+  home    : /# home layout url, "/" (default)
+  archive : /archive.html# "/archive.html" (default)
+  rss     : /feed.xml# "/feed.xml" (default)
 
 
 ## => Post
@@ -78,20 +78,19 @@ license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4
 
 ## TOC
 toc:
-  selectors: # "h1,h2,h3" (default)
-
+  selectors:  "h1,h2,h3" 
 
 ## => Markdown Enhancements
 ##############################
 ## Mathjax
-mathjax: # false (default), true
-mathjax_autoNumber: # false (default), true
+mathjax:false # false (default), true
+mathjax_autoNumber:false # false (default), true
 
 ## Mermaid
-mermaid: # false (default), true
+mermaid: false# false (default), true
 
 ## Chart
-chart: # false (default), true
+chart: false# false (default), true
 
 
 ## => Paginate
