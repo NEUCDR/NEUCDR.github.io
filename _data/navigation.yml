@@ -31,4 +31,4 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       소개
       ko-KR   : *KO
-    url: https://github.com/NEUMSC-CDR/NEUMSC-CDR.github.io/index.html
+    url: /about.html
