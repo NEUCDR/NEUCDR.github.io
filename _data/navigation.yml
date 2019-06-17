@@ -47,4 +47,4 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       소개
       ko-KR   : *KO
-    url: /nihao.html
+    url: /欢迎使用 Cmd Markdown 编辑阅读器.html
