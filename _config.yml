@@ -37,7 +37,7 @@ author:
   type      : person# "person" (default), "organization"
   name      : During
   url       : https://github.com/NEUMSC-CDR
-  avatar    : # path or url of avatar image (square)
+  avatar    : /images/微信图片_20190618162254.jpg # path or url of avatar image (square)
   bio       : 不高不帅，又没有技术，好人稳了。
   email     : 1938585006@qq.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
