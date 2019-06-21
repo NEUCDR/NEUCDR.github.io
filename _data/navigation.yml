@@ -1,4 +1,10 @@
-header:
+header:   
+  - titles:
+      en      : &EN       Home
+      zh-Hans : &ZH_HANS  家
+    url: 
+
+    url: /404page/index.html
   - titles:
       en      : &EN       Archive
       zh-Hans : &ZH_HANS  文章
@@ -15,3 +21,7 @@ header:
       zh-Hans : &ZH_HANS  Markdown
 
     url: /404page/index.html
+    
+
+    
+    
