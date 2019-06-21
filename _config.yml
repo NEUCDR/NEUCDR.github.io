@@ -18,7 +18,7 @@
 ##############################
 text_skin: default # 选择主题"default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # 代码高亮主题"default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://NEUMSC-CDR.github.io# the base hostname & protocol for your site e.g. https://www.someone.com
+url     : https://NEUMSC-CDR.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : CDR's Website
 description: > # this means to ignore newlines until "Language & timezone"
@@ -27,8 +27,8 @@ description: > # this means to ignore newlines until "Language & timezone"
 
 ## => Language and Timezone
 ##############################
-lang: en# the language of your site, default as "en"
-timezone: Asia/Shanghai# see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+lang: en # the language of your site, default as "en"
+timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
@@ -62,10 +62,10 @@ repository_tree: master
 ## => Paths
 ##############################
 paths:
-  root    : /# title link url, "/" (default)
-  home    : /# home layout url, "/" (default)
-  archive : /archive.html# "/archive.html" (default)
-  rss     : /feed.xml# "/feed.xml" (default)
+  root    : / # title link url, "/" (default)
+  home    : / # home layout url, "/" (default)
+  archive : /archive.html # "/archive.html" (default)
+  rss     : /feed.xml # "/feed.xml" (default)
 
 
 ## => Post
@@ -95,7 +95,7 @@ chart: # false (default), true
 
 ## => Paginate
 ##############################
-paginate: 4
+paginate: 6
 paginate_path: /page:num # don't change this unless for special need
 
 
