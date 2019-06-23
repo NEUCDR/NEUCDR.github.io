@@ -291,17 +291,21 @@ class Appearance {
 上课最好不要跟着老师走，效率低，永远相信：度姐是最好的老师！
 {:.warning}
 
-学习Java{:.info}
+`学习Java`{:.info}
 
-[W3Lschool](https://www.w3cschool.cn/java/)
+[W3Lschool](https://www.w3cschool.cn/java/)  
+
 [菜鸟教程](https://www.runoob.com/java/java-tutorial.html)
 
 
-java资料{:.info}
+`java资料`{:.info}
 
-[廖雪峰课程](https://pan.baidu.com/s/1rvFCNcnIFYfdCJMXauM98g)`提取码：3o5o`
-[java架构](https://pan.baidu.com/s/1p50XSRryOWxsgcLXdaRB_g)`提取码：1821`
-[java基础到就业](https://pan.baidu.com/s/1UlVm_CxQVQG92trJ64aLWQ)`提取码：6yb7`
+[廖雪峰课程](https://pan.baidu.com/s/1rvFCNcnIFYfdCJMXauM98g)`提取码：3o5o`  
+
+[java架构](https://pan.baidu.com/s/1p50XSRryOWxsgcLXdaRB_g)`提取码：1821`  
+
+[java基础到就业](https://pan.baidu.com/s/1UlVm_CxQVQG92trJ64aLWQ)`提取码：6yb7`  
+
 
 
 
