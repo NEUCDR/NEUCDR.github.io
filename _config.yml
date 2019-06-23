@@ -16,8 +16,8 @@
 
 ## => Site Settings
 ##############################
-text_skin: default # 选择主题"default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: default # 代码高亮主题"default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+text_skin: ocean # 选择主题"default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+highlight_theme: tomorrow-night-eighties # 代码高亮主题"default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://NEUMSC-CDR.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : CDR's Website
