@@ -1,7 +1,7 @@
-## 模拟银行系统
+<center><font Size=5>模拟银行系统</font></center>
 
-java{:.success}
-程设{:.success}
+`java`{:.success}
+`程设`{:.success}
 
 ### 说明
 
