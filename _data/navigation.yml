@@ -12,8 +12,8 @@ header:
     
     
   - titles:
-      en      : &EN       实验楼
-      zh-Hans : &ZH_HANS  Markdown
+      en      : &EN       experiment
+      zh-Hans : &ZH_HANS  实验楼
 
     url: https://www.shiyanlou.com/users/ 
     
