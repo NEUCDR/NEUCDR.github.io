@@ -1,9 +1,4 @@
 header:   
-  - titles:
-      en      : &EN       Home
-      zh-Hans : &ZH_HANS  家
-    url: 
-
     url: /404page/index.html
   - titles:
       en      : &EN       Archive
@@ -17,11 +12,14 @@ header:
     
     
   - titles:
-      en      : &EN       Markdown
+      en      : &EN       实验楼
       zh-Hans : &ZH_HANS  Markdown
 
-    url: /404page/index.html
+    url: https://www.shiyanlou.com/users/ 
     
-
-    
+  - titles:
+      en      : &EN       W3LSCHOOL
+      zh-Hans : &ZH_HANS  
+    url: http://www.w3school.com.cn/
+       
     
