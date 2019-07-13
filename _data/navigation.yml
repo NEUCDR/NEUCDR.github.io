@@ -4,11 +4,7 @@ header:
       zh-Hans : &ZH_HANS  归档
       zh-Hant : &ZH_HANT  歸檔
     url: /archive.html
-  - titles:
-      en      : &EN       About
-      zh-Hans : &ZH_HANS  关于
-      zh-Hant : &ZH_HANT  關於
-    url: /about.html
+
   - titles:
       en      : &EN       Github
       zh-Hans : &ZH_HANS  Github
