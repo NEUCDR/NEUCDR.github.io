@@ -22,7 +22,7 @@ url     : https://neucdr.github.io/ # the base hostname & protocol for your site
 baseurl : /NEUCDR.github.io # does not include hostname
 title   : CDR's Website
 description: > # this means to ignore newlines until "Language & timezone"
-  Just do something minningful
+  竹根即使被埋在地下无人得见，也决然不会停止探索而力争冒出新笋。
 
 
 ## => Language and Timezone
