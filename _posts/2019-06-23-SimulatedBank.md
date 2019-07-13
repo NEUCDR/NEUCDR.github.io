@@ -1,5 +1,5 @@
 ---
-titl： SimulatedBank
+title： SimulatedBank
 key： 20190623
 tags: java
 ---
