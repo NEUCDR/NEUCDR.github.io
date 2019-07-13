@@ -1,9 +1,9 @@
 ---
-title： SimulatedBank
-key： 20190623
+title: SimulatedBank System
+key: 20190623
 tags: java
 ---
-<center><font Size="5">模拟银行系统</font></center>
+
 
 `java`{:.success}
 `程设`{:.success}
